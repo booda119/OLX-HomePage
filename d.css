@@ -1,0 +1,160 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.logo-picture{
+    width: 48px;
+    height: 48px;
+    padding: 20px;
+    margin-bottom: -35px;
+
+}
+#select-country{
+   height: 45px;
+   width: 300px;
+   font-size: 18px;
+   border-radius: 10px;
+   border: 1px solid black;
+}
+#product-search{
+    margin: 10px;
+    background-color:white;
+    width: 700px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: 17px;
+    border: 1px solid black;
+}
+
+#language{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#language:hover{
+     color:blue;
+}
+ #Login{
+    margin: 20;
+    font-size: 20;
+    color: black;
+ }
+ #Login:hover{
+    text-decoration:none;
+} 
+#navbar{
+    list-style-type: none;
+    border-bottom: 1px solid gainsboro;
+    box-shadow: 10px 2px 8px black;
+}
+#navbar li{
+    float: left;
+    margin: 20px;
+}
+.Categories{
+    font-size: 17px;
+    text-decoration: none;
+    color:black;
+}
+.Categories:hover{
+    color:blue;
+}
+.navbar-photo
+{
+    width: 20px;
+    margin-top: -50px;
+}
+#navbar-img{
+    width: 1300px;
+    padding-left: 20px;
+}
+#all-product{
+    margin-left: 50px;
+}
+#product-img{
+    width: 225px;
+     height: 225px; 
+}
+.Products{
+    padding: 10px;
+}
+
+#loadMoreButton{
+    margin-left: 600px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 6px;
+    width: 105px;
+    background-color: white;
+    margin-bottom: 70px;
+
+}
+#loadMoreButton:hover{
+    border: 4px solid black;
+    
+}
+
+#TextIn-loadMoreButton{
+    font-size: 15px;
+}
+#footer{
+    background-color:rgb(197, 193, 193);
+    border-top: 1px solid rgb(117, 112, 112);
+    width: 100%;
+}
+#about-us{
+    display:inline-block;
+     margin-left: 200px;
+      padding: 20px;
+}
+ 
+#about-us-list{
+    list-style-type: none;
+}
+#about-us-header{
+    font: size 20px;
+}
+.about-us-items{
+    text-decoration: none;
+    color: rgba(0,47,52,.64);
+    font-size: 15px;
+}
+#olx{
+    display:inline-block;
+    margin-left: 100px;
+}
+#olx-list{
+    list-style-type: none
+}
+#olx-header{
+    font: size 20px;
+}
+.olx-items{
+    text-decoration: none;
+    color: rgba(0,47,52,.64);
+    font-size: 15px;
+}
+#COUNTRIES{
+    display:inline-block;
+    margin-left: 100px;
+}
+#COUNTRIES-list{
+    list-style-type: none;
+}
+#COUNTRIES-header{
+    font: size 20px;
+}
+.COUNTRIES-items{
+    text-decoration: none;
+    color: rgba(0,47,52,.64);
+    font-size: 15px;
+}
+
+span{
+    border: 1px solid rgb(224, 223, 223);
+    float: left;
+    margin: 10px;
+}
+
+
